@@ -7,4 +7,4 @@ example: `--export premiere`, `--export resolve`
 <br>first you have to install [python3](https://python.org) and then type `pip install auto-editor` in cmd and thats it! you can run the python file in the source code or use the exe file (both work!) :D
 
 **if on mac/linux**
-<br>first install [python3](https://python.org) for mac and then go to your terminal and type `pip install auto-editor`, and `pip install tkinterdnd2`, then install the `main.py` file from this repo, using the `download raw file` button, and then run the script and your also good.
+<br>first install [python3](https://python.org) for mac/linux and then go to your terminal and type `pip install auto-editor`, and `pip install tkinterdnd2`, then install the `main.py` file from this repo, using the `download raw file` button, and then run the script and your also good.
