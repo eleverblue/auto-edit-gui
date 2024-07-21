@@ -4,4 +4,4 @@ read [this site](https://auto-editor.com/ref/options) to see on how to use extra
 example: `--export premiere`, `--export resolve`
 
 **if on mac/linux**
-go to your terminal and type `pip install auto-editor`, and `pip install tkinterdnd2`, then install the `main.py` file from this repo, using the `download raw file` button, and then run the script and your also good.
+<br>go to your terminal and type `pip install auto-editor`, and `pip install tkinterdnd2`, then install the `main.py` file from this repo, using the `download raw file` button, and then run the script and your also good.
